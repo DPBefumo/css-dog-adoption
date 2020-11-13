@@ -1,15 +1,20 @@
-# Build a Dog Adoption Site
+# Dog Adoption Site
 
-## Directions
+## Project Goals
 
-Your task is to build one page for an animal shelter. You will need to build the HTML and CSS to make this page. The page should look like the following:
+To build one page site for an animal shelter. This project will be my first experience with HTML and CSS to create a smooth, responsive page that mimics the following design:
 
 ![Image of the final page](page.png)
 
-The fonts used are Open Sans and Oswald, and can be included by adding the following line to your document's `<head>` before your own CSS:
-
-```html
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:400,700" rel="stylesheet">
-```
-
-The link to the adoption application form should go to `#`, which is a way to link to the same page as you are currently on.
+## ToDos
+* Increase margins for body 
+* Les space between the images
+* Font size?
+* Image size adjustment 
+* Less space for attributes
+* Footer images need to not repeat
+* Center text in footer images
+* Footer not so purple
+* Create links for footer text, keep font color white
+* No margins for footer, cover the full screen
+* Thin blue line under header
