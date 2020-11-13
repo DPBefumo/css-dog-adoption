@@ -7,8 +7,5 @@ To build one page site for an animal shelter. This project will be my first expe
 ![Image of the final page](page.png)
 
 ## ToDos
-* Less space between the images
-* Font size?
-* Image size adjustment 
 * Less space for attributes
-* Thin blue line under header
+* Wrap attributes so they don't split up
